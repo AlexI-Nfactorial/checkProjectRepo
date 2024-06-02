@@ -23,7 +23,7 @@ This is a simple e-commerce web application built using the MERN stack (MongoDB,
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/ecommerce-web-app.git
+git clone https://github.com/AlexI-Nfactorial/ecommerce-web-app.git
 cd ecommerce-web-app
 ```
 
