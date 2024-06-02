@@ -215,14 +215,3 @@ The cron job is set up using the `node-cron` library. The script fetches product
    });
    ```
 
-## Future Enhancements
-
-- Implement user reviews and ratings for products.
-- Add more robust user authentication and authorization.
-- Improve the UI/UX with better styling and responsive design.
-- Integrate with external APIs for dynamic product data.
-- Add a payment gateway for completing purchases.
-
-## License
-
-This project is licensed under the MIT License.
