@@ -7,9 +7,9 @@
 
 
 
-github did not sync client folder because of some visual studio problem in settings
-CHECK OTHER REPO!!!
-https://github.com/AlexI-Nfactorial/Project
+# github did not sync client folder because of some visual studio problem in settings
+# CHECK OTHER REPO!!!
+# https://github.com/AlexI-Nfactorial/Project
 
 
 
