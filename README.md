@@ -1,4 +1,49 @@
 
+
+
+
+
+
+
+
+
+github did not sync client folder because of some visual studio problem in settings
+CHECK OTHER REPO!!!
+https://github.com/AlexI-Nfactorial/Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # E-commerce Web Application
 
 This is a simple e-commerce web application built using the MERN stack (MongoDB, Express, React, and Node.js). The application allows users to browse products, leave reviews, and add items to a cart. Users can also register and log in to manage their carts. The products are fetched from [Fake Store API](https://fakestoreapi.com/) and kept up to date with a scheduled job.
